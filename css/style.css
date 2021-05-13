@@ -1,0 +1,68 @@
+
+.dahuamian{
+    background: url(../images/未标题-2.png);
+    background-repeat: repeat-x;
+}
+.zhongjian{
+    width: 968px;
+    margin: 0 auto;
+    padding: 0 10px;
+    text-align: left;
+}
+.head{
+    height: 75px;
+    overflow: hidden;
+}
+.weixin{
+    float: left;
+    height: 75px;
+}
+.yihang{
+    float: right;
+    padding-top: 21px;
+}
+.yihang li{
+    float: left;
+}
+.diyi{
+    
+    background: url(../images/未标题-2.png) no-repeat;
+    border-radius: 100px;
+}
+li,ul{
+    list-style: none;
+    margin: 0;
+}
+.head .yihang a:active span {
+    background: url(../images/3w4CwHw.png)no-repeat scroll 100%;
+}
+.head .yihang a{
+    display: inline-block;
+    padding-left: 10px;
+    margin: 0 2px;
+    line-height: 33px;
+    color: #fff;
+    text-decoration: none;
+}
+.head .yihang a:active{
+    font-weight: 700;
+    text-decoration: none;
+    background: url(../images/3w4CwHw.png)no-repeat scroll;
+}
+.yihang a:hover{
+    text-decoration: none;
+    background: url(../images/3w4CwHw.png) no-repeat scroll;
+}
+.yihang a:hover{
+    background: url(../images/3w4CwHw.png)  no-repeat scroll 100%;
+    color: #fff;
+}
+.yihang ul li{
+    overflow: hidden;
+    float: left;
+}
+ .yihang a span{
+    display: inline-block;
+    padding-right: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,78 @@
+body{
+    background: url(../images/3S9sFMD.jpg);
+    background-repeat: repeat-x;
+    margin: 0 auto;
+    width: 1440px;
+}
+
+.head{
+    margin: 0 auto;
+    width: 968px;
+    height: 75px;
+}
+
+.logo{
+    float: left;
+    margin-top: 14px;
+    width: 130px;
+    height: 44px;
+}
+
+a{
+    padding-left: 10px;
+    margin: 0 2px;
+    display: inline-block;
+    line-height: 33px;
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+
+ul{
+    padding-top: 21px;
+    margin: 0;
+    text-align: left;
+    display: block;
+    float: right;
+    height: 33px;
+    list-style: none;
+}
+
+li{
+    height: 33px;
+    padding: 0;
+    margin: 0;
+    float: left;
+}
+
+span{
+    padding-right: 10px;
+    display: inline-block;
+}
+
+.top span{
+    background: url(../images/lTcb_ve.png) no-repeat scroll 100%;
+    font-weight: 700;
+}
+
+.top{
+    background: url(../images/lTcb_ve.png) no-repeat scroll;
+}
+
+.zi:hover{
+    font-weight: 100;
+    background: url(../images/3w4CwHw.png) no-repeat  scroll;
+}
+
+.zi:hover span{
+    background: url(../images/3w4CwHw.png) no-repeat scroll 100%;
+}
+
+.zi:active{
+    font-weight: 400;
+    background: url(../images/lTcb_ve.png) no-repeat scroll;
+}
+
+.zi:active span{
+    background: url(../images/lTcb_ve.png) no-repeat scroll 100%;
+}

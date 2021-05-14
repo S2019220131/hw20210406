@@ -1,0 +1,250 @@
+
+.logo{
+    margin-top: -30px;
+    margin-left: 200px;
+    position: absolute;
+    z-index: 2;
+    left: 50px;
+    top: 60px;
+    cursor:pointer;
+}
+.nav_home{
+    float: left;
+    margin-top: 25px;
+    margin-left: 410px;
+    box-shadow:   2px 1px 1px 1px rgba(194, 194, 194, 0.19);
+    z-index: 4;
+    position: absolute;
+    display: inline-block;
+    padding-left: 10px;
+    line-height: 33px;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    outline: none;
+    border-radius:20px;
+	background-image: linear-gradient(#000000,#000000,#070707);
+    width: 43px;
+    height: 35px;      
+
+}
+
+.button1 {    
+    background: linear-gradient(to bottom,rgb(104, 100, 100),black);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-left: 470px;
+    margin-top: 25px;
+    max-width: 600px;
+    z-index: 4;
+    position: absolute;
+    padding:5px; 
+    outline: none;
+    border-radius: 15px;
+    
+}
+.button1:hover {
+    background-color: #555555;
+    color: white;
+    
+}
+.button1:active {
+    background-color: #3e8e41;
+    transform: translateY(2px);
+  }
+
+  .button2 {    
+    background: linear-gradient(to bottom,rgb(104, 100, 100),black);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-left: 700px;
+    margin-top: 25px;
+    max-width: 600px;
+    z-index: 4;
+    position: absolute;
+    padding:5px; 
+    outline: none;
+    border-radius: 15px;
+}
+.button2:hover {
+    background-color: #555555;
+    color: white;
+    
+}
+.button2:active {
+    background-color: #3e8e41;
+    transform: translateY(2px);
+}
+.button3{    
+    background: linear-gradient(to bottom,rgb(104, 100, 100),black);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-left: 750px;
+    margin-top: 25px;
+    max-width: 600px;
+    z-index: 4;
+    position: absolute;
+    padding:5px; 
+    outline: none;
+    border-radius: 15px;
+}
+.button3:hover {
+    background-color: #555555;
+    color: white;
+    
+}
+.button3:active {
+    background-color: #3e8e41;
+    transform: translateY(2px);
+}
+.button4{    
+    background: linear-gradient(to bottom,rgb(104, 100, 100),black);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-left: 850px;
+    margin-top: 25px;
+    max-width: 600px;
+    z-index: 4;
+    position: absolute;
+    padding:5px; 
+    outline: none;
+    border-radius: 15px;
+}
+.button4:hover {
+    background-color: #555555;
+    color: white;
+    
+}
+.button4:active {
+    background-color: #3e8e41;
+    transform: translateY(2px);
+}
+.button5{    
+    background: linear-gradient(to bottom,rgb(104, 100, 100),black);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-left: 950px;
+    margin-top: 25px;
+    max-width: 600px;
+    z-index: 4;
+    position: absolute;
+    padding:5px; 
+    outline: none;
+    border-radius: 15px;
+}
+.button5:hover {
+    background-color: #555555;
+    color: white;
+    
+}
+.button5:active {
+    background-color: #3e8e41;
+    transform: translateY(2px);
+}
+.button6{    
+    background: linear-gradient(to bottom,rgb(104, 100, 100),black);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-left:1050px;
+    margin-top: 25px;
+    max-width: 600px;
+    z-index: 4;
+    position: absolute;
+    padding:5px; 
+    outline: none;
+    border-radius: 15px;
+}
+.button6:hover {
+    background-color: #555555;
+    color: white;
+    
+}
+.button6:active {
+    background-color: #3e8e41;
+    transform: translateY(2px);
+}
+.button7{    
+    background: linear-gradient(to bottom,rgb(104, 100, 100),black);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-left:1150px;
+    margin-top: 25px;
+    max-width: 600px;
+    z-index: 4;
+    position: absolute;
+    padding:5px; 
+    outline: none;
+    border-radius: 15px;
+}
+.button7:hover {
+    background-color: #555555;
+    color: white;
+    
+}
+.button7:active {
+    background-color: #3e8e41;
+    transform: translateY(2px);
+}

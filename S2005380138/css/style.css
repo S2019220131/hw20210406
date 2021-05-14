@@ -1,0 +1,96 @@
+body{
+    margin: 0px;
+    width: 1519.2px;
+    background-image: url(../images/bj.jpg);
+    background-repeat: repeat-x;
+}
+header{
+    height: 75px;
+    margin: 0px;
+    margin: 0 auto;
+}
+.head{
+    margin: 0 auto;
+    width: 968px; 
+    height: 75px;
+}
+.head img{
+    float: left;
+    padding-top: 14px;
+    width: 130px;
+    height: 44px;
+}
+.logo{
+    width: 130px;
+    height: 66px;
+    float: left;
+}
+.daohan{
+    float: left;
+    width: auto;
+    height: 44px;
+    padding-left: 95px;
+    padding-top: 5px;
+}
+.daohan .dh a{
+    margin: 0 2px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 33px;
+}
+.daohan span{
+    width: auto;
+    display: inline-block;
+    display: block\9;
+    cursor: pointer;
+    padding-right: 8px;
+}
+
+.dh{
+    float: right;
+}
+.dh li{
+    list-style: none;
+    float: left;
+}
+
+.home span{
+    background: url(../images/t.png) no-repeat scroll 100%;
+}
+.dh .home span{
+    font-weight: 700;
+}
+.dh .home{
+    padding-left: 10px;
+    padding-top: 7px;
+    padding-bottom: 6px;
+    background: url(../images/t.png) no-repeat scroll;
+}
+.daohan .bq span{
+    line-height: 33px;
+}
+.dh .bq{
+    padding-left: 9px;
+    padding-top: 7.2px;
+    padding-bottom: 6px;
+}
+.dh .bq:hover {
+    font-weight: lighter;
+    text-decoration: none;
+    font-weight: 0;
+    background: url(../images/a.png) no-repeat scroll;
+}
+.dh .bq:hover span {
+    background: url(../images/a.png) no-repeat scroll 100%;
+}
+
+.dh .bq:active {
+    text-decoration: none;
+    font-weight: 500;
+    background: url(../images/t.png) no-repeat scroll 
+}
+.dh .bq:active span {
+    background: url(../images/t.png) no-repeat scroll 100%
+}

@@ -1,0 +1,76 @@
+<style type="text/css">
+	*{
+		margin: 0;
+		padding: 0;
+	}
+	li{
+		list-style: none;
+	}
+	#outer{
+		width: 590px;
+		margin:70px auto;
+
+	 }
+	#banner{
+		width: 590px;
+		margin:70px auto;
+		background-color: aqua;
+		position: relative;
+	}
+	#imgList{
+		 position: absolute;
+	}
+	.item{
+		position: absolute;
+		opacity: 0;
+	}
+	#imgList .item:first-of-type{
+		opacity: 1;
+	}
+	#left_btn,#right_btn{
+		width: 295px;
+		height: 470px;
+		float: left;
+		line-height: 470px;
+		/* background-color: #00FFFF; */
+		opacity: 0.6;
+	}
+	/* opacity失效 */
+	
+	button{
+		/* opacity: 0.4; */
+	}
+	.btn1{
+		width: 50px;
+		font-size: 30px;
+		line-height: 50px;
+		opacity: 0;
+		border: 2px solid white;
+	}
+	.btn_l{
+		border-radius: 0 10px 10px 0;
+	}
+	.btn_r{
+		border-radius: 10px 0 0 10px;
+	}
+	#right_btn{
+		text-align: right;
+	}
+
+</style>
+
+
+<div id="outer">
+	<div id="banner">
+		<ul id="imgList">
+			<li class="item"><img src="images/1.jpg" alt=""></li>
+			<li class="item"><img src="images/2.jpg" alt=""></li>
+			<li class="item"><img src="images/3.jpg" ></li>
+			<li class="item"><img src="images/4.jpg" ></li>
+		</ul>
+	</div>
+	<div id="btn">
+		<div id="left_btn"><button type="button" class="btn1 btn_l"> <</button> </div>
+		<div id="right_btn">  <button type="button" class="btn1 btn_r">></button> </div> 
+	</div>
+</div>

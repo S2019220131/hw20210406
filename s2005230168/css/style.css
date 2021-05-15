@@ -2,7 +2,7 @@
 header{
     width: 1755px;
     height: 76px;
-    background: url(/images/3S9sFMD.jpg);
+    background: url(../images/3S9sFMD.jpg);
 }
 div img{
     margin-left: 280px;
@@ -44,7 +44,7 @@ span{
     line-height: 30px;
 }
 a p:hover{
-    background: url(/images/3w4CwHw.png) no-repeat scroll;
+    background: url(../images/3w4CwHw.png) no-repeat scroll;
     margin-top: 1px;
     border-bottom: 1px solid #5e5f5a;
     border-right: 1px solid #5e5f5a;
@@ -55,5 +55,5 @@ a p:hover{
     font-weight: 540;
     border-bottom: 1px solid #5e5f5a;
     border-right: 1px solid #5e5f5a;
-    background: url(/images/lTcb_ve.png) no-repeat scroll;
+    background: url(../images/lTcb_ve.png) no-repeat scroll;
 }

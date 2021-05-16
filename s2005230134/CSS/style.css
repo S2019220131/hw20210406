@@ -1,0 +1,86 @@
+body{
+    font: 14px/1.6 -apple-system-font,BlinkMacSystemFont,
+    Helvetica Neue,PingFang SC,Hiragino Sans GB,Microsoft
+    YaHei UI,Microsoft YaHei,Arial,sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    background: url(../images/背景.png);
+}
+
+.head-project{
+    height: 75px;
+    width: 968px;
+    margin: auto;
+}
+
+.a{
+    text-decoration: underline;
+}
+
+.logo{
+    height: 55px;
+    width: 129px;
+    padding-left: 25px;
+    padding-top: 10px;
+    float: left;
+}
+
+.nav{
+    float: right;
+    line-height: 33px;
+    margin: 0;
+    padding-top: 25px;
+    padding-left: 0;
+    display: block;
+    width: auto;
+    list-style-type: none;
+}
+
+.nav-first{
+    display: inline-block;
+}
+
+.nav-first a{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    background: url(../images/背景-1.png)no-repeat scroll ;
+}
+
+.nav-first span{
+    display:inline-block;
+    line-height: 33px;
+    text-align: left;
+    padding-right: 15px;
+    margin-left: 15px;
+    background: url(../images/背景-1.png)no-repeat scroll 100%;
+}
+
+.nav-other{
+    display: inline-block;
+
+}
+
+.nav-other a{
+    display: inline-block;
+    margin: 0 2px;
+    padding-left: 10px;
+}
+
+.nav-other a:hover{
+    background: url(../images/背景-1.png)no-repeat scroll ;
+}
+
+.nav-other span{
+    padding-right: 10px;
+    display: inline-block;
+    color: #fff;
+}
+
+.nav-other span:hover{
+    padding-right: 10px;
+    background: url(../images/背景-1.png)no-repeat scroll 100%;
+}

@@ -1,0 +1,60 @@
+html,ul,li,span{
+    margin: 0;
+    padding: 0;
+}
+header{
+    min-width: 968px;
+    background: url(../images/background.png) repeat-x;
+    height: 75px;
+    font-family: "宋体";
+    font-size: 14px;
+}
+.header{
+    width: 968px;
+    margin: auto;
+    padding: 0 10px;
+    overflow: hidden;
+}
+.logo{
+    float: left;
+    margin-top: 14px;
+    height: 44px;
+}
+ul{
+    display: block;
+}
+li{
+    display: inline-block;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #FFF;
+}
+.O,a{
+    display: inline-block;
+    margin: 0;
+    padding-left: 10px;
+    line-height: 33px;
+}
+.O{
+    float: right;
+    padding-top: 21px;
+}
+.O .home{
+    background: url(../images/jbbg.png) no-repeat scroll 100%; 
+}
+.O span{
+    font-weight: 700px;
+    background: url(../images/jbbg.png) no-repeat scroll;
+}
+.O a:hover span{
+    background: url(../images/jbbg.png) no-repeat scroll 100%;
+}
+.O a:hover{
+    background: url(../images/jbbg.png) no-repeat scroll;
+}
+.O a span{
+    display: inline-block;
+    padding-right: 10px;
+}

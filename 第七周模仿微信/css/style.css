@@ -1,0 +1,37 @@
+.总体{
+    background: url(../images/用来横向铺满的背景.png);
+    background-repeat: repeat-x;
+}
+.内容{
+    overflow: hidden;
+    width: 960px;
+    margin: auto;
+    height: 80px;
+}
+.logo{
+    padding-top: 10px;
+    float: left;
+}
+ul{
+    list-style: none;
+    margin: auto;
+}
+.文字{
+    float: right;
+    padding-top: 25px;
+}
+a{
+    padding-left: 15px;
+    color: #fff;
+}
+li{
+    float: left;
+}
+li :hover{
+    background: url(../images/用来做鼠标经过样式的图片.png)  no-repeat scroll 100%;
+    color: #fff;
+}
+span{
+    display: inline-block;
+    padding-right: 15px;
+}

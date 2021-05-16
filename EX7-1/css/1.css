@@ -1,0 +1,62 @@
+
+.body {
+    height: 1000px;
+    overflow: hidden;
+    color: black;
+    display: block;
+}
+.container {
+    width: 968px;
+    margin: 0 auto;
+    padding: 0 10px;
+    text-align: left;
+}
+div.background{
+    background-color: black;
+    /* overflow:hidden; */overflow-y:hidden;
+    overflow-x:auto;
+    background-size:100% 100%;
+    display:block;
+
+}
+      .left{
+        height: 70px;
+        width: 968px;
+        background-color: black;
+        margin:0 auto;
+        padding: 0 10px;
+        text-align:left;
+      }
+      .Weixin{
+        height: 50px;
+        margin-top: 10px;
+        margin-left: 10px;
+      }
+
+      .link{
+        height: 70px;
+        width: 960px;
+        background-color: black;
+      }
+   a {
+        display: inline-block;
+
+        font-family: Microsoft JhengHei UI;
+        color: white;
+        padding: 0 5px 0 5px;
+        text-decoration: none;
+        line-height: 71px;
+        padding-left: 10px;
+   float: right;
+
+        /* font: 14px/1.6 -apple-system-font,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Hiragino Sans GB,Microsoft YaHei UI,Microsoft YaHei,Arial,sans-serif; */
+      }
+      a:hover{
+        background-color: black;
+        color:black;
+        text-align: -webkit-match-parent;
+        color: -webkit-link;
+    cursor: pointer;
+    
+      }
+ 

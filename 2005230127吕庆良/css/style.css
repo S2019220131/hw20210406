@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+}
+
+div {
+    width: 1006px;
+    height: 75px;
+    background:-webkit-linear-gradient(top,#454545,#1a1a1a);
+}
+
+img {
+    width: 127px;
+    height: 45px;
+    margin-top: 16px;
+    margin-left: 30px;
+}
+
+a {
+    list-style: none;
+    text-decoration: none;
+}
+
+.A {
+    position: absolute;
+    top: 31px;
+    left: 289px;
+    color: #ffffff;
+    font-size: 15px;
+    
+}
+
+.B {
+    position: absolute;
+    top: 31px;
+    left: 340px;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.C {
+    position: absolute;
+    top: 31px;
+    left: 540px;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.D {
+    position: absolute;
+    top: 31px;
+    left: 580px;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.E {
+    position: absolute;
+    top: 31px;
+    left: 660px;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.F {
+    position: absolute;
+    top: 31px;
+    left: 740px;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.G {
+    position: absolute;
+    top: 31px;
+    left: 820px;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.H {
+    position: absolute;
+    top: 31px;
+    left: 900px;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.A:hover {
+    border:  1px solid rgb(0,0,0);
+    border-radius: 80px;
+    width: 40px;
+    height: 25px;
+    text-align: center;
+    font-weight: bold;
+    color: #00ff00;
+}
+
+.B:hover {
+    border:  1px solid rgb(0,0,0);
+    border-radius: 80px;
+    width: 190px;
+    height: 25px;
+    text-align: center;
+    font-weight: bold;
+    color: #00ff00;
+}
+
+.C:hover {
+    border:  1px solid rgb(0,0,0);
+    border-radius: 80px;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    font-weight: bold;
+    color: #00ff00;
+}
+
+.D:hover {
+    border:  1px solid rgb(0,0,0);
+    border-radius: 80px;
+    width: 70px;
+    height: 25px;
+    text-align: center;
+    font-weight: bold;
+    color: #00ff00;
+}
+
+.E:hover {
+    border:  1px solid rgb(0,0,0);
+    border-radius: 80px;
+    width: 70px;
+    height: 25px;
+    text-align: center;
+    font-weight: bold;
+    color: #00ff00;
+}
+
+.F:hover {
+    border:  1px solid rgb(0,0,0);
+    border-radius: 80px;
+    width: 70px;
+    height: 25px;
+    text-align: center;
+    font-weight: bold;
+    color: #00ff00;
+}
+
+.G:hover {
+    border:  1px solid rgb(0,0,0);
+    border-radius: 80px;
+    width: 70px;
+    height: 25px;
+    text-align: center;
+    font-weight: bold;
+    color: #00ff00;
+}
+
+.H:hover {
+    border:  1px solid rgb(0,0,0);
+    border-radius: 80px;
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    font-weight: bold;
+    color: #00ff00;
+}

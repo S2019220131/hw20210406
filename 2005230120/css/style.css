@@ -1,0 +1,89 @@
+div{
+    display: block;
+}
+
+.logo1{
+    color: white;
+    float: left;
+    margin-top: 20px;
+}
+
+body{
+    background: url(../img/a2.jpg)repeat-x top
+}
+
+.main{
+    width: 1920px;
+}
+
+.text{
+    width: 968px;
+    margin: 0 auto;
+    padding: 0 110px;
+    text-align: left;
+}
+
+.head{
+    float: left;
+    height: 75px;
+    overflow: hidden;
+}
+
+.head a{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    float: right;
+    margin: 0;
+    padding: 0;
+    
+}
+
+li{
+    margin-top: 7px;
+    float: left;
+    list-style-type: none;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+span{
+    display: inline-block;
+    padding-right: 8px;
+}
+
+a.zs span{
+    background: url(../img/sy.png) no-repeat scroll 100%;
+}
+
+a.zs{
+    font-weight: 300;
+    text-decoration: none;
+    background: url(../img/sy.png) no-repeat scroll;
+}
+
+a{
+    display: inline-block;
+    padding-left: 10px;
+    line-height: 33px;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    outline: none;
+}
+
+li:nth-child(n+2) a:hover {
+    margin: 0 1px 0 2px;
+    text-decoration: none;
+    background: url(../img/a1.png) no-repeat scroll;
+    color: white;
+}
+li:nth-child(n+2) a:hover span{
+    background: url(../img/a1.png) no-repeat scroll 100%;
+    color: white;
+}

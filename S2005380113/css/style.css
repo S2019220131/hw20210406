@@ -1,0 +1,85 @@
+body{
+    font-size: 14px;
+}
+.web{
+    width: 950px;
+    margin: 0 auto
+}
+.wechat-bg{
+    background-repeat: repeat-x;
+    margin: 0px 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.logo{
+    float: left;
+    margin-top: 14px;
+    width: 130px;
+    height: 44px;
+}
+.wenzi {
+    float: right;
+    padding-top: 5px
+}
+.wenzi li {
+    list-style: none;
+    float: left
+   
+}
+.wenzi a {
+    font-weight: 500;
+    display: inline-block;
+    padding-left: 10px;
+    line-height: 33px;
+    color: #fff;
+    text-decoration: none
+}
+.wenzi {
+ 
+    font-weight: lighter;
+    text-decoration: none;
+    font-weight: 0;
+    
+    color: #fff
+}
+.dh:hover{
+ 
+    font-weight: lighter;
+    text-decoration: none;
+    font-weight: 0;
+    background: url(../images/jingguo1.png) no-repeat scroll;
+    color: #fff
+}
+
+.wenzi .dh:hover span {
+    background: url(../images/jingguo1.png) no-repeat scroll 100%;
+   
+    color: #fff
+    
+}
+
+.wenzi .dh:active {
+
+    text-decoration: none;
+    font-weight: 500;
+    background: url(../images/jingguo2.png) no-repeat scroll 
+}
+.wenzi .dh:active span {
+   
+    background: url(../images/jingguo2.png) no-repeat scroll 100%
+}
+.wenzi a span {
+    display: inline-block;
+    display: block\9;
+    padding-right: 10px;
+    cursor: pointer
+}
+.index{
+    font-weight: 700;
+    text-decoration: none;
+    background: url(../images/jingguo2.png) no-repeat scroll;
+}
+.index span{
+    background: url(../images/jingguo2.png) no-repeat scroll 100%;
+    color: #fff
+}

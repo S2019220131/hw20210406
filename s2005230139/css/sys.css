@@ -1,0 +1,60 @@
+.dh{
+    width: 1400px;
+    height: 75px;
+    margin:  auto;
+    background:url(../images/bj.png) ;
+  
+}
+.WXdhl{
+    margin: auto;
+    width: 968px;
+    height: 75px;
+    background:url(../images/bj.png) ;
+}
+.logo{
+    float: left;
+    margin-top: 14px;
+    width: 130px;
+}
+a{
+    padding-left: 10px;
+    margin: 0 4px;
+    display: inline-block;
+    line-height: 33px;
+    text-decoration: none;
+}
+ul{
+    margin-top: 20px;
+    text-align: left;
+    display: block;
+    float: right;
+    height: 33px;
+    list-style: none;
+}
+li{
+    height: 28px;
+    float: left;
+    background: rgba(255,255,255,0);
+    margin: 1px 1px;
+    border-radius: 5px;
+    transition: all 0.4s;
+}
+span{
+    color: white;
+    padding-right: 11px;
+    display: inline-block;
+    font-size: 14px;  
+}
+.d1 span{
+    background: url(../images/yq.png)
+    no-repeat scroll  100%;
+}
+.d1{
+    background: url(../images/yq.png)
+    no-repeat scroll 100%;  
+    font-weight: 700;
+}
+a:hover{
+    background:url(../images/yqq.png);
+    
+}

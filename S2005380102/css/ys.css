@@ -1,0 +1,76 @@
+body{
+    font-size: 14px;
+}
+.dh{
+    width: 950px;
+    margin: 0 auto
+}
+.bg{
+    background-repeat: repeat-x;
+    margin: 0px 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.logo{
+    float: left;
+    margin-top: 14px;
+    width: 130px;
+    height: 44px;
+}
+.lb {
+    float: right;
+    padding-top: 5px
+}
+.lb li {
+    list-style: none;
+    float: left
+   
+}
+.lb a {
+    font-weight: 500;
+    display: inline-block;
+    padding-left: 10px;
+    line-height: 33px;
+    color: #fff;
+    text-decoration: none
+}
+li:nth-child(n+2):nth-child(-n+8):hover{
+ 
+    font-weight: lighter;
+    text-decoration: none;
+    font-weight: 0;
+    background: url(../img/anx.png) no-repeat scroll;
+    
+    color: #fff
+}
+li:nth-child(n+2):nth-child(-n+8):hover span {
+    background: url(../img/anx.png) no-repeat scroll 100%;
+   
+    color: #fff
+    
+}
+li:nth-child(n+2):nth-child(-n+8):active {
+
+    text-decoration: none;
+    font-weight: 500;
+    background: url(../img/tq.png) no-repeat scroll 
+}
+li:nth-child(n+2):nth-child(-n+8):active span {
+   
+    background: url(../img/tq.png) no-repeat scroll 100%
+}
+li:nth-child(n+1):nth-child(-n+8) a span {
+    display: inline-block;
+    display: block\9;
+    padding-right: 10px;
+    cursor: pointer
+}
+li:nth-child(1){
+    text-decoration: none;
+    background: url(../img/tq.png) no-repeat scroll;
+}
+li:nth-child(1) span{
+    font-weight: 700;
+    background: url(../img/tq.png) no-repeat scroll 100%;
+    color: #fff
+}

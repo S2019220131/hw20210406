@@ -1,0 +1,59 @@
+.dahuamian{
+    background: url(../images/未标题-2.png);
+    background-repeat: repeat-x;
+}
+.zhongjian{
+    width: 968px;
+    margin: 0 auto;
+    padding: 0 10px;
+    text-align: left;
+}
+.head{
+    height: 75px;
+    overflow: hidden;
+}
+.weixin{
+    float: left;
+    height: 75px;
+}
+.yihang{
+    float: right;
+    padding-top: 21px;
+}
+.yihang li{
+    overflow: hidden;
+    float: left;
+}
+li,ul{
+    list-style: none;
+    margin: 0;
+}
+.yihang a{
+    display: inline-block;
+    padding-left: 10px;
+    margin: 0 2px;
+    line-height: 33px;
+    color: #fff;
+    text-decoration: none;
+}
+.yihang span{
+    display: inline-block;
+    padding-right: 10px;
+    cursor: pointer;
+}
+.diyi a {
+    font-weight: 700;
+    text-decoration: none;
+    background: url(../images/背景-1.png)no-repeat scroll;
+}
+.diyi span {
+    background: url(../images/背景-1.png)no-repeat scroll 100%;
+}
+.dier a:hover{
+    text-decoration: none;
+    background: url(../images/背景-1.png) no-repeat scroll;
+}
+.dier span:hover{
+    background: url(../images/背景-1.png)  no-repeat scroll 100%;
+    color: #fff;
+}

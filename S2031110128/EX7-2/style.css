@@ -1,0 +1,58 @@
+body {
+    margin: auto;
+}
+
+footer {
+    background-color: #343434;
+    height: 75px;
+}
+
+.head {
+    margin: auto;
+    background-color: #343434;
+    width: 968px;
+    height: 75px;
+}
+
+img {
+    float: left;
+    height: 44px;
+    margin-top: 14px;
+}
+
+.home {
+    margin-left: 210px;
+    background-image: url(../EX7-2/images/lTcb_ve.png);
+    background-position: left;
+}
+
+a {
+    float: left;
+    display: block;
+    padding-left: 10px;
+    line-height: 73px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+}
+
+span:hover {
+    background-image: url(../EX7-2/images/lTcb_ve.png);
+    font-weight: lighter;
+}
+
+.aa {
+    background-image: url(../EX7-2/images/lTcb_ve.png);
+    font-weight: bold;
+    background-position: right;
+}
+
+.nav {
+    margin: auto;
+    list-style: none;
+}
+
+.head .nav a span {
+    padding-right: 10px;
+    border-radius: 70px;
+}
